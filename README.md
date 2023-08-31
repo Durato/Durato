@@ -9,7 +9,7 @@
 <a href="https://www.instagram.com/biancalpiva/"  target="_blank">
 <img src="https://img.shields.io/badge/Instagram-FFB6C1?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 </a>
-<a href="biancalpiva@gmail.com"  target="_blank">
+<a href="mailto:biancalpiva@gmail.com"  target="_blank">
 <img src="https://img.shields.io/badge/Gmail-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
 </div>
