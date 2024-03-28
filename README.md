@@ -18,7 +18,7 @@
 ## 🌸Sobre mim  
 <div align="center">
 
-<h4>Seja Bem-Vindo ao meu GitHub. Meu nome é Bianca e estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas na Univel. Pretendo seguir na área de Backend.</h4>
+<h4>Seja Bem-Vindo ao meu GitHub. Meu nome é Bianca e estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas no Senac. Pretendo seguir na área de Backend.</h4>
 <h4>Estou interessada em estágios ou vagas para desenvolvedora júnior. Tenho experiência com:</h4>
 
 <img src="https://img.shields.io/badge/HTML-FFB6C1?style=for-the-badge&logo=html5&logoColor=white">
