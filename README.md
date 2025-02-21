@@ -6,8 +6,6 @@
 <a href="https://www.linkedin.com/in/biancalpiva/"  target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%23FFB6C1.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
-<a href="https://www.instagram.com/biancalpiva/"  target="_blank">
-<img src="https://img.shields.io/badge/Instagram-FFB6C1?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 </a>
 <a href="mailto:biancalpiva@gmail.com"  target="_blank">
 <img src="https://img.shields.io/badge/Gmail-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
