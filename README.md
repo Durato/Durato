@@ -15,22 +15,5 @@
 </div>
 <br>
 
-## 🌸Sobre mim  
-<div align="center">
-
-<h4>Seja Bem-Vindo ao meu GitHub. Meu nome é Bianca e estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas no Senac. Pretendo seguir na área de Backend.</h4>
-
-
-<img src="https://img.shields.io/badge/HTML-FFB6C1?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-FFB6C1?&style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/C-FFB6C1?style=for-the-badge&logo=c&logoColor=white">
-
-<br>⠀⠀⠀⠀
-
-<a href="https://github.com/Durato">
-<img height="160cm" src="https://github-readme-stats.vercel.app/api?username=Durato&theme=dracula&show_icons=true"><img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durato&layout=compact&langs_count=7&theme=dracula"> 
-
-
-
+## 🌸 
 </div>
