@@ -13,7 +13,4 @@
 <img src="https://img.shields.io/badge/Gmail-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
 </div>
-<br>
 
-## 🌸 
-</div>
