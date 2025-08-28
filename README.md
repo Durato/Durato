@@ -7,6 +7,5 @@
 <a href="mailto:biancalpiva@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-F62038?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=dark" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&title_color=F62038&text_color=ffffff&bg_color=000000&border_color=F62038" />
+
