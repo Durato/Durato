@@ -11,6 +11,3 @@
   
   <br><br>
   
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durato&layout=compact&title_color=F62038&text_color=ffffff&bg_color=000000&border_color=F62038" />
-</div>
